@@ -1,0 +1,7 @@
+Siddhi - UI  (from Stitch, Figma, any other UI app available), Learn tailwind css and basic css properties withb media queries to make UI responsive.
+
+Advika - UI  (from Stitch, Figma, any other UI app available), Learn tailwind css and basic css properties withb media queries to make UI responsive.
+
+Krushna - Learn basic JS for node operatons. https://www.youtube.com/watch?v=Q-icS7yZz5k
+
+Swar - React + Vite, Tailwind and Node Express Mongo/Firebase.
